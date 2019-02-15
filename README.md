@@ -1,5 +1,13 @@
 # 中文书刊排版相关标准和规范
 
+### 关于国家标准的定义
+[标准可查询 "国家标准全文公开系统"][gb688-cn]
+* [GB] 强制性国家标准
+* [GB/T] 推荐性国家标准
+
+[gb688-cn]: http://www.gb688.cn/bzgk/gb/index
+
+
 本项目收集整理了中文排版所需遵循的标准和规范。
 
 本项目所收集的资料基于网络上流传的一套文档集合《作者编辑常用标准及规范（第一部分）》和《作者编辑常用标准及规范（第二部分）》。该文档集合似乎是一本同名书籍的草稿，但其存在以下缺陷：
@@ -547,4 +555,3 @@
 [book-collate-rule]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E5%85%B6%E4%BB%96/%E5%9B%BE%E4%B9%A6%E7%BC%96%E6%A0%A1%E8%B4%A8%E9%87%8F%E5%B7%AE%E9%94%99%E8%AE%A4%E5%AE%9A%E7%BB%86%E5%88%99.pdf
 
 [newspaper-collate-rule]: https://github.com/Haixing-Hu/typesetting-standard/raw/master/%E5%85%B6%E4%BB%96/%E6%8A%A5%E7%BA%B8%E7%BC%96%E6%A0%A1%E8%B4%A8%E9%87%8F%E8%AF%84%E6%AF%94%E5%B7%AE%E9%94%99%E8%AE%A4%E5%AE%9A%E7%BB%86%E5%88%99.pdf
-
